@@ -1,0 +1,40 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Clube da luta",
+      "author": "Chuck Palahniuk",
+      "description": "O clube da luta é idealizado por Tyler Durden, que acredita ter encontrado uma maneira de viver fora dos limites da sociedade e das regras sem sentido. Mas o que está por vir de sua mente pode piorar muito. O livro serviu de base para um filme de 1999, procurando adaptar a atmosfera do livro, o mundo caótico do personagem e o humor negro do autor.",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": "R$ 53,90",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51P8CCNS4kL.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clímax",
+      "author":"Chuck Palahniuk",
+      "description": "O mesmo autor de Clube da Luta apresenta um retrato afiado do feminismo, do prazer sexual e do apocalipse do marketing em uma nova narrativa sobre as psiques desconjuntadas de homens e mulheres contemporâneos. Penny Harrigan é uma jovem recém-formada em Direito que trabalha no maior escritório de advocacia de Manhattan. Vinda do meio-oeste, ela mora em um apartamentinho no Queens com duas colegas e há tempos não tem nem sinal de vida amorosa. Por isso, imagine o choque que leva quando C. Linus Maxwell – ou 'ClíMax', o megabilionário famoso por casos com as mulheres mais lindas e cobiçadas do planeta – a convida para jantar? Pois ele não só a leva ao restaurante mais badalado de Nova York, como também a uma cobertura em Paris onde, caderneta à mão, começa a conduzi-la por dias e dias de ápices insonháveis de prazer orgásmico. Vai reclamar? Sim: Penny descobre que é a cobaia na etapa final de pesquisa e desenvolvimento da Beautiful You, uma linha de apetrechos sexuais que serão vendidos às mulheres do mundo todo numa cadeia multinacional de lojas. Milhões de mulheres fazem fila para abastecer-se do catálogo de aparelhinhos, tão potentes e eficazes que, por todo o globo, elas chegam em casa, trancam-se no quarto e não saem mais – a não ser quando precisam de pilhas. Alguém precisa deter o plano de Maxwell de dominar o mundo usando o prazer erótico. Mas como? 'Chuck Palahniuk anda com sexo na cabeça (...) Mas não estamos falando de 50 Tons de Cinza. Clímax é praticamente um dedo do meio para a mommy porn e para a fama do erotismo moderno – e, ao mesmo tempo, uma sátira esperta sobre misoginia, fama, moda, autoajuda e ciência.'",
+      "seller": {
+        "id": 2,
+        "name": "Maria Constantine da Luz"
+      },
+      "price": "R$ 19,99",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415y9iT%2BvWL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Laranja Mecânica",
+      "author": "Anthony Burgess",
+      "description": "Narrada pelo protagonista, o adolescente Alex, esta brilhante e perturbadora história cria uma sociedade futurista em que a violência atinge grandes proporções e provoca uma resposta igualmente agressiva de um governo totalitário. Ao lado de 1984, de George Orwell, e Admirável Mundo Novo, de Aldous Huxley, Laranja Mecânica é um dos ícones literários da alienação pós-industrial que caracterizou o século 20. Adaptado com maestria para o cinema em 1972 por Stanley Kubrick, o livro é uma obra marcante que atravessou décadas e se mantém atual.",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": "R$ 49,90",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51AES0xVwHL.jpg"
+    }
+  ]
+}
