@@ -1,5 +1,5 @@
 {
-  "Products": [
+  "products": [
     {
       "id": 1,
       "name": "Clube da luta",
@@ -9,7 +9,7 @@
         "id": 1,
         "name": "Sérgio Augusto"
       },
-      "price": "R$ 53,90",
+      "price": 53.90,
       "image": "https://images-na.ssl-images-amazon.com/images/I/51P8CCNS4kL.jpg"
     },
     {
@@ -21,7 +21,7 @@
         "id": 2,
         "name": "Maria Constantine da Luz"
       },
-      "price": "R$ 19,99",
+      "price": 19.99,
       "image": "https://images-na.ssl-images-amazon.com/images/I/415y9iT%2BvWL.jpg"
     },
     {
@@ -33,8 +33,119 @@
         "id": 1,
         "name": "Sérgio Augusto"
       },
-      "price": "R$ 49,90",
+      "price": 49.90,
       "image": "https://images-na.ssl-images-amazon.com/images/I/51AES0xVwHL.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Doutor Estranho - Sina dos sonhos (Marvel)",
+      "author": "Devin Grayson",
+      "description": "O mundo está desmoronando. A criminalidade só aumenta, a economia global é um abismo sem fim. Doutor Stephen Strange, o Mago Supremo, derrotou hordas de demônios, lutou contra forças malignas e defendeu incansavelmente nosso reino de exércitos Interdimensionais. Mas quando um perigoso sonho passa a inspirar pessoas comuns a agir conforme suas ambições mais soturnas, Doutor Estranho é obrigado a confrontar não apenas seu arqui-inimigo, Pesadelo, mas suas próprias fraquezas. O Mago Supremo deverá afundar-se nos pesadelos, delírios e anseios de todo o mundo. Para salvar o Reino dos Sonhos, ele terá de abrir mão de algumas das suas próprias ilusões – incluindo seu heroísmo. Quais sonhos assombrarão o Mago Supremo ao longo desse percurso?",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": 21.40,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51t-lD2f0dL.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Batman: Year One",
+      "author": "Frank Miller, David Mazzucchelli",
+      "description": "A new edition of one of the most important and critically acclaimed Batman adventures ever, written by Frank Miller, author of THE DARK KNIGHT RETURNS! In 1986, Frank Miller and David Mazzucchelli produced this groundbreaking reinterpretation of the origin of Batman--who he is and how he came to be. Written shortly after THE DARK KNIGHT RETURNS, Miller's dystopian fable of Batman's final days, YEAR ONE set the stage for a new vision of a legendary character. This edition includes the complete graphic novel, a new introduction by writer Frank Miller and a new illustrated afterword by artist David Mazzucchelli. Completing this collection are over 40 pages of never-before-seen developmental material such as character and layout sketches, sample script pages, sketches and more that provide a glimpse into the making of this contemporary classic.",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": 112.77,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41F58rFCMwL.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Batman: The Killing Joke",
+      "author": "Frank Miller, David Mazzucchelli",
+      "description": "Presented for the first time with stark, stunning new coloring by Brian Bolland, BATMAN: THE KILLING JOKE is Alan Moore's unforgettable meditation on the razor-thin line between sanity and insanity, heroism and villainy, comedy and tragedy. According to the grinning engine of madness and mayhem known as the Joker, that's all that separates the sane from the psychotic. Freed once again from the confines of Arkham Asylum, he's out to prove his deranged point. And he's going to use Gotham City's top cop, Commissioner Jim Gordon, and the Commissioner’s brilliant and beautiful daughter Barbara to do it.",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": 61.30,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61z2HFmt6TL.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Clube da Luta 2",
+      "author": "Chuck Palahniuk",
+      "description": "Clube Da Luta 2 Num formato totalmente inovador a Leya lança a tão aguardada continuação do Clube da Luta! Comemorando vinte anos da publicação do Clube da Luta, Chuck Palahniuk e Cameron Stewart trazem de volta Tyler Durden no Clube da Luta 2 em HQ. 'Alguns amigos imaginários nunca vão embora...'' Vamos juntos quebrar a regra número um do Clube da Luta... Não falar sobre o próprio Clube? Tyler Durden está de volta. E dessa vez em quadrinhos. Clube da Luta 2 é uma continuação da história original em HQ, que resgata todo o cinismo, a violência e a anarquia que transformaram o livro e o filme em ícones da cultura pop mundial. Com desenhos de Cameron Stewart, a história se passa nove anos depois do final do primeiro livro. O casal de protagonistas, que leva uma existência aparentemente normal, mais uma vez terá de rever alguns amigos imaginários que nunca foram embora. Só que agora as consequências podem fugir ainda mais do controle.",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": 32.06,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514GBl6XZcL._SY346_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "300 de Esparta",
+      "author": "Frank Miller, Lynn Varley",
+      "description": "Clube Da Luta 2 Num formato totalmente inovador a Leya lança a tão aguardada continuação do Clube da Luta! Comemorando vinte anos da publicação do Clube da Luta, Chuck Palahniuk e Cameron Stewart trazem de volta Tyler Durden no Clube da Luta 2 em HQ. 'Alguns amigos imaginários nunca vão embora...'' Vamos juntos quebrar a regra número um do Clube da Luta... Não falar sobre o próprio Clube? Tyler Durden está de volta. E dessa vez em quadrinhos. Clube da Luta 2 é uma continuação da história original em HQ, que resgata todo o cinismo, a violência e a anarquia que transformaram o livro e o filme em ícones da cultura pop mundial. Com desenhos de Cameron Stewart, a história se passa nove anos depois do final do primeiro livro. O casal de protagonistas, que leva uma existência aparentemente normal, mais uma vez terá de rever alguns amigos imaginários que nunca foram embora. Só que agora as consequências podem fugir ainda mais do controle.",
+      "seller": {
+        "id": 3,
+        "name": "Mario Andrade"
+      },
+      "price": 32.06,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51l9Loh1sbL._SY355_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sin City - O Assassino Amarelo",
+      "author": "Frank Miller",
+      "description": "É o último dia de trabalho de John Hartigan, um dos raros policiais honestos de Sin City. Foram trinta e tantos anos protegendo e servindo. Ele está preenchendo formulários e pensando no sorriso de sua esposa, no filé suculento e na champanhe que o aguardam em casa, está pensando em como gostará de dormir até as dez da manhã, nos dias ensolarados sem fazer absolutamente nada... mas existe um assunto que ainda precisa ser resolvido: uma garotinha está lá fora, em algum lugar, indefesa nas mãos de um psicopata. Só falta uma hora para John Hartigan entregar seu distintivo, e o que acontecerá depois disso irá mudar sua vida para sempre!",
+      "seller": {
+        "id": 1,
+        "name": "Sérgio Augusto"
+      },
+      "price": 54.00,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41aquckxl0L._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sin City - A Noite da Vingança",
+      "author": "Frank Miller",
+      "description": "Sin City - A Noite da Vingança ganha uma nova edição e encontra-se novamente disponível para que a coleção acompanhe, sem furos, o gigantesco aumento de vendas alcançado com o lançamento do filme Sin City: A Cidade do Pecado, dirigido por Robert Rodriguez e Frank Miller (com a participação especial de Quentin Tarantino)! Dwight McCarthye Miho estão atrás de alguns assassinos que cometeram um crime hediondo nas ruas sujas de sangue e pecado de Sin City. Quem são esses criminosos e o que eles fizeram de tão grave será revelado numa aventura cheia de traição, balas... e vingança!",
+      "seller": {
+        "id": 4,
+        "name": "Maria Anchieta"
+      },
+      "price": 54.00,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41aquckxl0L._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "O Pistoleiro - Série Torre Negra, Volume 1",
+      "author": "Stephen King",
+      "description": "Em O pistoleiro, o leitor é apresentado a Roland Deschain, último descendente do clã de Gilead, e derradeiro representante de uma linhagem de implacáveis pistoleiros desaparecida desde que o Mundo Médio onde viviam “seguiu adiante”. Para evitar a completa destruição desse mundo já vazio e moribundo, Roland precisa alcançar a Torre Negra, eixo do qual depende todo o tempo e todo o espaço, e sua verdadeira obsessão, sua única razão de viver. O pistoleiro acredita que um misterioso personagem, a quem se refere como o Homem de Preto, conhece e pode revelar segredos capazes de ajudá-lo em sua busca pela Torre Negra, e por isso o persegue sem descanso. Pelo caminho, encontra pessoas que pertencem a seu ka-tet – ou seja, cujo destino está irremediavelmente ligado ao dele. Entre eles estão Alice, uma mulher que Roland encontra na desolada cidade de Tull, e Jake Chambers, um menino que foi transportado para o mundo de Roland depois de morrer em circunstâncias trágicas na Nova York de 1977. Mas a aventura se estenderá para outros lugares muito além do Mundo Médio, levando Roland a realidades que ele jamais sonhara existir. Este é o primeiro livro da série A Torre Negra, uma das obras mais ambiciosas de Stephen King, que mistura com maestria elementos de terror e fantasia épica. Esta edição, inteiramente revista pelo autor, traz também prefácio e introdução inéditos de King.",
+      "seller": {
+        "id": 4,
+        "name": "Maria Anchieta"
+      },
+      "price": 34.43,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41QUwEXbN-L._SX337_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "O Pistoleiro - Série Torre Negra, Volume 1",
+      "author": "Stephen King",
+      "description": "Mais de trinta anos depois, Stephen King revela a seus leitores o que aconteceu a Danny Torrance, o garoto no centro de O iluminado, depois de sua terrível experiência no Overlook Hotel. Em Doutor Sono, King dá continuidade a essa história, contando a vida de Dan, agora um homem de meia-idade, e Abra Stone, uma menina de doze anos com um grande poder. Assombrado pelos habitantes do Overlook Hotel, onde passou um ano terrível da infância, Dan ficou à deriva por décadas, desesperado para se livrar do legado de alcoolismo e violência do pai. Por fim, ele se instala em uma cidade de New Hampshire, onde encontra abrigo em uma comunidade do Alcoólicos Anônimos que o apoia e um emprego em uma casa de repouso, onde seu poder remanescente da iluminação fornece o conforto final para aqueles que estão morrendo. Ajudado por um gato que prevê a morte dos pacientes, ele se torna o Doutor Sono. Então Dan conhece Abra Stone, uma menina com um dom espetacular, a iluminação mais forte que já se viu. Ela desperta os demônios de seu passado e Dan se vê envolvido em uma batalha pela alma e sobrevivência dela. Uma guerra épica entre o bem e o mal, uma sangrenta e gloriosa história que vai emocionar os milhões de fãs de O Iluminado e satisfazer os leitores deste novo clássico da obra de King.",
+      "seller": {
+        "id": 4,
+        "name": "Maria Anchieta"
+      },
+      "price": 35.69,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cET0Yzf3L._SX345_BO1,204,203,200_.jpg"
     }
-  ]
+  ],
+  "addedItems":[],
+  "total": 0,
+  "cartCount": 0
 }
